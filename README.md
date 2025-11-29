@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishk1122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk1122/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kanishk1122/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kanishk1122/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishk1122/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
