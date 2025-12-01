@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishk1122/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/kanishk1122/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishk1122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishk1122/leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
