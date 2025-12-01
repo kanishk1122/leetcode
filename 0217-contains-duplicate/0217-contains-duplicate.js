@@ -3,12 +3,12 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    let freq ={}
+    let freq = new Map()
     for(let num of nums){
-        if(freq[num]){
+        if(freq.get(num)){
             return true
         }else{
-            freq[num] = 1
+            freq.set(num , 1)
         }
     }
     return false
