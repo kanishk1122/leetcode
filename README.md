@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishk1122/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kanishk1122/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kanishk1122/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk1122/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kanishk1122/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
