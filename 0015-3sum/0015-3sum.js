@@ -9,6 +9,7 @@ var threeSum = function (nums) {
     for (let i = 0; i < length; i++) {
         if (i > 0 && nums[i] === nums[i - 1]) continue
         let j = i + 1, k = length - 1
+        if (nums[i] > 0) break;
         while (j < k) {
             let sum = nums[i] + nums[j] + nums[k]
             if (sum > 0) k--
