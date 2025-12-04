@@ -4,9 +4,6 @@
  */
 var countCollisions = function(directions) {
     let n = directions.length;
-    if(n == 1){
-        return 0
-    }
     let i = 0;
     let j = n - 1;
     while (i < n && directions[i] === 'L') i++;
