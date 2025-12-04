@@ -96,4 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
+| [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
