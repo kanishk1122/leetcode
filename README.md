@@ -100,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanishk1122/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanishk1122/leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
