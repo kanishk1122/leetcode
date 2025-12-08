@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kanishk1122/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanishk1122/leetcode/tree/master/0009-palindrome-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanishk1122/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kanishk1122/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishk1122/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
