@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kanishk1122/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kanishk1122/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishk1122/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/kanishk1122/leetcode/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/kanishk1122/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kanishk1122/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3583-count-special-triplets](https://github.com/kanishk1122/leetcode/tree/master/3583-count-special-triplets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
+| [3583-count-special-triplets](https://github.com/kanishk1122/leetcode/tree/master/3583-count-special-triplets) |
 ## Math
 |  |
 | ------- |
