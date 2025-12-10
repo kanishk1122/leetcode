@@ -9,6 +9,7 @@ var countPermutations = function (complexity) {
             return 0;
         }
     }
+    
     let ans = 1;
     const mod = 1000000007;
     for (let i = 2; i < n; i++) {
