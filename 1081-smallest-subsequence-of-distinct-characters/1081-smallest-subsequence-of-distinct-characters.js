@@ -9,7 +9,6 @@ var smallestSubsequence = function (s) {
         if (!vis.has(e)) {
             while (stack.length && stack[stack.length - 1] > e && freq.get(stack[stack.length - 1]))
                 vis.delete(stack.pop())
-
             if (!vis.has(e))
                 stack.push(e), vis.add(e);
         }
