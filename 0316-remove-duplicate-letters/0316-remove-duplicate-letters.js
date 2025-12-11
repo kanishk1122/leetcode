@@ -3,16 +3,23 @@
  * @return {string}
  */
 var removeDuplicateLetters = function(s) {
-    const freq = new Map(), vis = new Set(), str = s.split(''), stack = [];
-    str.forEach(e => freq.set(e, (freq.get(e) + 1 || 1)))
-    str.forEach(e => {
-        if (!vis.has(e)) {
-            while (stack.length && stack[stack.length - 1] > e && freq.get(stack[stack.length - 1]))
-                vis.delete(stack.pop())
-            if (!vis.has(e))
-                stack.push(e), vis.add(e);
+    const map = {}, set = new Set();
+    const stack = [];
+    for (let i = 0; i < s.length; i++) map[s[i]] = i;
+    for (let i = 0; i < s.length; i++) {
+        if (set.has(s[i])) continue;
+        while (
+            stack.length &&
+            s[i] < stack[stack.length - 1] &&
+            map[stack[stack.length - 1]] > i
+        )
+            set.delete(stack.pop());
+
+        if (!set.has(s[i])) {
+            stack.push(s[i]);
+            set.add(s[i])
         }
-        freq.set(e, freq.get(e) - 1)
-    })
-    return stack.join('')
+    }
+
+    return stack.join('');
 };
