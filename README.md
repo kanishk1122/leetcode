@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kanishk1122/leetcode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kanishk1122/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kanishk1122/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishk1122/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kanishk1122/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishk1122/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
