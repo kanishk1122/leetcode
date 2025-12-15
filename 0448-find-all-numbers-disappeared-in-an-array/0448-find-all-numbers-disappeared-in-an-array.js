@@ -2,18 +2,16 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var findDisappearedNumbers = function(nums) {
-    let freq ={}
-    for(let num of nums){
-        freq[num] = 1
-    }
-    let result = []
-    let expted = 0
-    for(let i = 0 ;i< nums.length;i++){
-        expted++
-        if (!(expted in freq)){
-            result.push(expted)
+var findDisappearedNumbers = function (nums) {
+    const arr = new Array(nums.length + 1).fill(0)
+    const res = []
+
+    for (let num of nums) arr[num]++
+
+    for (let i = 1; i <= nums.length; i++) {
+        if (arr[i] === 0) {
+            res.push(i)
         }
     }
-    return result
+    return res
 };
