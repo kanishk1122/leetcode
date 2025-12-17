@@ -14,7 +14,6 @@ var setZeroes = function(matrix) {
             if (matrix[i][j] === 0) {
                 rows.add(i);
                 cols.add(j);
-                console.log(i,j)
             }
         }
     }
