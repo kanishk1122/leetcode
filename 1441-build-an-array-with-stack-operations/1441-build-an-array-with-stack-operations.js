@@ -15,7 +15,7 @@ var buildArray = function (target, n) {
                 stack.push(pointer)
                 result.push("Push")
             }
-            if (stack[stack.length - 1] < target[i]) {
+            if (pointer < target[i]) {
                 stack.pop()
                 result.push("Pop")
             }
@@ -27,7 +27,5 @@ var buildArray = function (target, n) {
         }
         pointer++
     }
-
-    console.log(result, stack)
     return result
 };
