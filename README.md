@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kanishk1122/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kanishk1122/leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kanishk1122/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kanishk1122/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishk1122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kanishk1122/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kanishk1122/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kanishk1122/leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kanishk1122/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanishk1122/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/kanishk1122/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishk1122/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanishk1122/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kanishk1122/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/kanishk1122/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kanishk1122/leetcode/tree/master/0503-next-greater-element-ii) |
