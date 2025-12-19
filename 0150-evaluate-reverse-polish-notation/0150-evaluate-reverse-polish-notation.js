@@ -23,7 +23,7 @@ var evalRPN = function (tokens) {
                 continue
             }
             if (token === '/') {
-                stack.push(Math.trunc(a / b))
+                stack.push(a / b | 0)
                 continue
             };
         } else {
