@@ -4,9 +4,10 @@
  */
 var evalRPN = function (tokens) {
     let stack = [];
+    let set = new Set(["+", "-", "*", "/"])
 
     for (let token of tokens) {
-        if (token === '+' || token === '-' || token === '*' || token === '/') {
+        if (set.has(token)) {
             let b = stack.pop();
             let a = stack.pop();
             if (token === '+') {
