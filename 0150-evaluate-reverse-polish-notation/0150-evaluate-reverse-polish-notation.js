@@ -6,7 +6,7 @@ var evalRPN = function (tokens) {
     let stack = [];
 
     for (let token of tokens) {
-        if (token === '+' || token === '-' || token === '*' || token === '/') {
+        if (/^[+\-*/]$/.test(token)) {
             let b = stack.pop();
             let a = stack.pop();
 
