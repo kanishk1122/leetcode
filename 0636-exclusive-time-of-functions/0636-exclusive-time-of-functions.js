@@ -15,23 +15,17 @@ var exclusiveTime = function(n, logs) {
         let timeline = Number(timeStr);
 
         if (command === "start") {
-            // If something is already running, update its start time forward
             if (stack.length > 0) {
                 let top = stack[stack.length - 1]; 
                 result[top[1]] += timeline - data.get(top[0]);
             }
-            
             stack.push([func, id]);
             data.set(func, timeline);
             func++;
-
-        } else { // end
+        } else {
             let [funcIndex, funcId] = stack.pop();
             let startTime = data.get(funcIndex);
-
             result[funcId] += timeline - startTime + 1;
-
-            // Update the start time of the previous function
             if (stack.length > 0) {
                 let top = stack[stack.length - 1];
                 data.set(top[0], timeline + 1);
