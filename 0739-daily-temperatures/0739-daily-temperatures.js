@@ -12,6 +12,5 @@ var dailyTemperatures = function(temperatures) {
         }
         stack.push(i)
     }
-    console.log(result)
     return result
 };
