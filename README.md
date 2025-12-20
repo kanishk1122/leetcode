@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanishk1122/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kanishk1122/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kanishk1122/leetcode/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishk1122/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kanishk1122/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kanishk1122/leetcode/tree/master/1470-shuffle-the-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kanishk1122/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kanishk1122/leetcode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kanishk1122/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
