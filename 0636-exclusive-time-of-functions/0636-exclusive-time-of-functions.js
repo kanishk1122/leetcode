@@ -8,12 +8,10 @@ var exclusiveTime = function(n, logs) {
     let data = new Map();
     let result = new Array(n).fill(0);
     let func = 0;
-
     for (let i = 0; i < logs.length; i++) {
         let [idStr, command, timeStr] = logs[i].split(":");
         let id = Number(idStr);
         let timeline = Number(timeStr);
-
         if (command === "start") {
             if (stack.length > 0) {
                 let top = stack[stack.length - 1]; 
