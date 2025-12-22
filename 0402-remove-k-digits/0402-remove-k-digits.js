@@ -4,7 +4,7 @@
  * @return {string}
  */
 var removeKdigits = function(num, k) {
-    const stack = [];
+    let stack = [];
     for (let digit of num) {
         while (k > 0 && stack.length && stack[stack.length - 1] > digit) {
             stack.pop();
