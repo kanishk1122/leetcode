@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kanishk1122/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kanishk1122/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kanishk1122/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/kanishk1122/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kanishk1122/leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/kanishk1122/leetcode/tree/master/0456-132-pattern) |
@@ -260,10 +261,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kanishk1122/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kanishk1122/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanishk1122/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/kanishk1122/leetcode/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/kanishk1122/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
