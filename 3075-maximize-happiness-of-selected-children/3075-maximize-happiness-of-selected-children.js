@@ -9,7 +9,7 @@ var maximumHappinessSum = function(happiness, k) {
     let count = 0 
     let index = happiness.length - 1
     while( k > 0 ){
-        count += Math.max(0,happiness[index] - round  )
+        count += Math.abs(happiness[index] - round > 0 ? happiness[index] - round : 0 )
         round++
         index--
         k--
