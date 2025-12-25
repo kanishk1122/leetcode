@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/kanishk1122/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishk1122/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2965-find-missing-and-repeated-values](https://github.com/kanishk1122/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kanishk1122/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kanishk1122/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/kanishk1122/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kanishk1122/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/kanishk1122/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishk1122/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kanishk1122/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/kanishk1122/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/kanishk1122/leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/kanishk1122/leetcode/tree/master/3606-coupon-code-validator) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kanishk1122/leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kanishk1122/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Linked List
 |  |
 | ------- |
