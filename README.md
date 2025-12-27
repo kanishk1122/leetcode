@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kanishk1122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kanishk1122/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk1122/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/kanishk1122/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/kanishk1122/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kanishk1122/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanishk1122/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/kanishk1122/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/kanishk1122/leetcode/tree/master/0456-132-pattern) |
 ## Sliding Window
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanishk1122/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kanishk1122/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kanishk1122/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kanishk1122/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kanishk1122/leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
