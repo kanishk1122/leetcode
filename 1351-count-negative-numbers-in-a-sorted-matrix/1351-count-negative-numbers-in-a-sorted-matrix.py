@@ -2,6 +2,10 @@ class Solution(object):
     def countNegatives(self, grid):
         count = 0
         for i in range(len(grid)):
+
+            if grid[i][0] < 0 : 
+                count += len(grid[i])
+                continue
             if grid[i][len(grid[i]) -1] < 0 :
                 left=0
                 right=len(grid[0])-1
