@@ -1,21 +1,9 @@
 class Solution(object):
     def countNegatives(self, grid):
         count = 0
-        for i in range(len(grid)):
-
-            if grid[i][0] < 0 : 
-                count += len(grid[i])
-                continue
-            if grid[i][len(grid[i]) -1] < 0 :
-                left=0
-                right=len(grid[0])-1
-
-                while left<=right:
-                    mid= left + (right- left)//2
-                    if grid[i][mid]<0:
-                        count +=right+1-mid
-                        right=mid-1
-                    elif grid[i][mid]>=0:
-                        left=mid+1
+        for i in grid:
+            for j in i:
+                if(j < 0):
+                    count += 1
         return count 
         
