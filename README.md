@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kanishk1122/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kanishk1122/leetcode/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1046-last-stone-weight](https://github.com/kanishk1122/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kanishk1122/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanishk1122/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kanishk1122/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kanishk1122/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/kanishk1122/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
