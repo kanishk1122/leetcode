@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kanishk1122/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/kanishk1122/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kanishk1122/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kanishk1122/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanishk1122/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/kanishk1122/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/kanishk1122/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kanishk1122/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/kanishk1122/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
