@@ -6,7 +6,8 @@
 var maxSlidingWindow = function (nums, k) {
     let queue = []
     let result = []
-    for (let i = 0; i < nums.length; i++) {
+    let n = nums.length
+    for (let i = 0; i < n; i++) {
         if (queue.length && queue[0] <= i - k) {
             queue.shift()
         }
