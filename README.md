@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kanishk1122/leetcode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kanishk1122/leetcode/tree/master/0402-remove-k-digits) |
+| [0520-detect-capital](https://github.com/kanishk1122/leetcode/tree/master/0520-detect-capital) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishk1122/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
