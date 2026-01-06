@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanishk1122/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/kanishk1122/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kanishk1122/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/kanishk1122/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanishk1122/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanishk1122/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishk1122/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/kanishk1122/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kanishk1122/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1920-build-array-from-permutation](https://github.com/kanishk1122/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kanishk1122/leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kanishk1122/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/kanishk1122/leetcode/tree/master/2211-count-collisions-on-a-road) |
