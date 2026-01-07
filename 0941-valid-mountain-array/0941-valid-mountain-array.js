@@ -3,10 +3,6 @@
  * @return {boolean}
  */
 var validMountainArray = function (arr) {
-    if (arr.length <= 2) {
-        return false
-    }
-    let stack = []
     let inclining = true
     let tophill = 0
     let lasthill = arr[0]
@@ -33,6 +29,5 @@ var validMountainArray = function (arr) {
             }
         }
     }
-    console.log(tophill)
     return inclining ? false : tophill == 0 ? false : true
 };
