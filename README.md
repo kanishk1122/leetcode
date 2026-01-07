@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kanishk1122/leetcode/tree/master/0079-word-search) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk1122/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -312,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kanishk1122/leetcode/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk1122/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk1122/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
