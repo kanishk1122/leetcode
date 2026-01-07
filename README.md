@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kanishk1122/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/kanishk1122/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kanishk1122/leetcode/tree/master/0739-daily-temperatures) |
+| [0941-valid-mountain-array](https://github.com/kanishk1122/leetcode/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kanishk1122/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/kanishk1122/leetcode/tree/master/1046-last-stone-weight) |
