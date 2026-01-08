@@ -8,8 +8,9 @@ var licenseKeyFormatting = function (s, k) {
 
     let groups = []
     let index = 0
-    
+
     let remainder = chars.length % k
+    
     if (remainder !== 0) {
         groups.push(chars.slice(0, remainder))
         index = remainder
