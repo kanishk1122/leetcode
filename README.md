@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/kanishk1122/leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kanishk1122/leetcode/tree/master/0520-detect-capital) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishk1122/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0831-masking-personal-information](https://github.com/kanishk1122/leetcode/tree/master/0831-masking-personal-information) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanishk1122/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
