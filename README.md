@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kanishk1122/leetcode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/kanishk1122/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/kanishk1122/leetcode/tree/master/0402-remove-k-digits) |
+| [0459-repeated-substring-pattern](https://github.com/kanishk1122/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/kanishk1122/leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kanishk1122/leetcode/tree/master/0520-detect-capital) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishk1122/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/kanishk1122/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kanishk1122/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
