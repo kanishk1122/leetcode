@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kanishk1122/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/kanishk1122/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kanishk1122/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kanishk1122/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kanishk1122/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/kanishk1122/leetcode/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kanishk1122/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kanishk1122/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kanishk1122/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kanishk1122/leetcode/tree/master/0509-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/kanishk1122/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/kanishk1122/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -334,5 +336,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kanishk1122/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kanishk1122/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
