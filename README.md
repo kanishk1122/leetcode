@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/kanishk1122/leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kanishk1122/leetcode/tree/master/0520-detect-capital) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishk1122/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/kanishk1122/leetcode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kanishk1122/leetcode/tree/master/0831-masking-personal-information) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanishk1122/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kanishk1122/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kanishk1122/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/kanishk1122/leetcode/tree/master/0796-rotate-string) |
 ## Memoization
 |  |
 | ------- |
