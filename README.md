@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/kanishk1122/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/kanishk1122/leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kanishk1122/leetcode/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/kanishk1122/leetcode/tree/master/0686-repeated-string-match) |
 | [0756-pyramid-transition-matrix](https://github.com/kanishk1122/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/kanishk1122/leetcode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kanishk1122/leetcode/tree/master/0831-masking-personal-information) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kanishk1122/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/kanishk1122/leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/kanishk1122/leetcode/tree/master/0796-rotate-string) |
 ## Memoization
 |  |
